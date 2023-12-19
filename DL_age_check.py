@@ -1,4 +1,4 @@
-# Drive License age check
+# Drive License age check (in Portuguese)
 print('-----------------' + 'DEPARTAMENTO DE TRANSITO' + '-----------------')
 print('- - - - - - - -  DRIVE LICENSE AGE CHECK  - - - - - - - -')
 
